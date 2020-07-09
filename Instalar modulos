@@ -1,12 +1,9 @@
-#Para instalar los modulos en Jupyter
+#Para instalar los modulos abrir una ventana de cmd (simbolo del sistema)
 
 #Pyglet
-
-import sys
-!{sys.executable} -m pip install pyglet
+pip install pyglet
 
 #Cocos2d
-
-!{sys.executable} -m pip install cocos2d
+pip install cocos2d
 
 #En caso de no poder, hay un video probando el juego
