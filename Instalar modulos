@@ -8,3 +8,5 @@ import sys
 #Cocos2d
 
 !{sys.executable} -m pip install cocos2d
+
+#En caso de no poder, hay un video probando el juego
