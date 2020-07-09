@@ -1,0 +1,10 @@
+#Para instalar los modulos en Jupyter
+
+#Pyglet
+
+import sys
+!{sys.executable} -m pip install pyglet
+
+#Cocos2d
+
+!{sys.executable} -m pip install cocos2d
